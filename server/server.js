@@ -2,9 +2,12 @@ const data = require('./data');
 const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
+const cors = require('cors');
 const port = process.env.PORT || 5000;
+
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
+app.use(cors());
 
 app.get('/stats', function (req, res) {
     res.send(JSON.stringify(data));
