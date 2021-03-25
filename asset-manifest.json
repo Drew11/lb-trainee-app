@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lb-trainee-app/static/css/main.86b1cb40.chunk.css",
+    "main.js": "/lb-trainee-app/static/js/main.a832d836.chunk.js",
+    "main.js.map": "/lb-trainee-app/static/js/main.a832d836.chunk.js.map",
+    "runtime-main.js": "/lb-trainee-app/static/js/runtime-main.3fab8e9b.js",
+    "runtime-main.js.map": "/lb-trainee-app/static/js/runtime-main.3fab8e9b.js.map",
+    "static/js/2.0a11f11a.chunk.js": "/lb-trainee-app/static/js/2.0a11f11a.chunk.js",
+    "static/js/2.0a11f11a.chunk.js.map": "/lb-trainee-app/static/js/2.0a11f11a.chunk.js.map",
+    "index.html": "/lb-trainee-app/index.html",
+    "static/css/main.86b1cb40.chunk.css.map": "/lb-trainee-app/static/css/main.86b1cb40.chunk.css.map",
+    "static/js/2.0a11f11a.chunk.js.LICENSE.txt": "/lb-trainee-app/static/js/2.0a11f11a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fab8e9b.js",
+    "static/js/2.0a11f11a.chunk.js",
+    "static/css/main.86b1cb40.chunk.css",
+    "static/js/main.a832d836.chunk.js"
+  ]
+}
