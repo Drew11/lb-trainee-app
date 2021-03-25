@@ -9,7 +9,7 @@
   {
     "id": 2,
     "name": "TISHCHENKO Artem",
-    "score": 3545,
+    "score": 3345,
     "hit": "82%",
     "rate_of_fire": 11
   },
@@ -30,7 +30,7 @@
   {
     "id": 5,
     "name": "FAK Jakov",
-    "score": 4045,
+    "score": 3045,
     "hit": "69%",
     "rate_of_fire": 7
   },
@@ -44,14 +44,14 @@
   {
     "id": 7,
     "name": "ELISEEV Matvey",
-    "score": 5845,
+    "score": 2845,
     "hit": "84%",
     "rate_of_fire": 10
   },
   {
     "id": 8,
     "name": "BJOENTEGAARD Erlend",
-    "score": 3445,
+    "score": 2945,
     "hit": "89%",
     "rate_of_fire": 13
   },

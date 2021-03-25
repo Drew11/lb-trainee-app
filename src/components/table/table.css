@@ -1,0 +1,32 @@
+.table {
+    margin: 20px 130px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid gainsboro;
+    width: 100%;
+}
+
+th {
+    border: 1px solid gainsboro;
+    cursor: pointer;
+}
+
+th:hover {
+    background-color: lavender;
+}
+
+
+td {
+    border: 1px solid gainsboro;
+    padding: 5px;
+}
+
+
+@media screen and (max-width: 700px){
+    .table {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
